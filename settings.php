@@ -1,1 +1,1 @@
-<?php echo 'first git file'; ?>
+<?php echo 'My first git file'; ?>

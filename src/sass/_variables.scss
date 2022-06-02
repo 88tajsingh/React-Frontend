@@ -1,0 +1,43 @@
+//override bootstrap colours
+$orange-dark: 	#ff4200 !default;
+$light-gray: 	#fcf8f5 !default;
+$gray: 			#717171 !default;
+$dark-gray: 	#5d5d5d !default;
+//font size
+$font-size-base: .938rem;
+$font-lg: $font-size-base * 1.267;
+
+//padding
+$base-padding : 0.938rem;
+
+//button variables
+$btn-sm-font-size: .938rem;
+$btn-lg-font-size: $btn-sm-font-size * 2.15;
+$btn-sm-padding-y: 1.188rem !default;
+$btn-sm-padding-x: .813rem !default; 
+
+//font family
+$base-font-family: 'Montserrat';
+
+
+//navbar variables
+$navbar-padding-y:                .5rem !default;
+$navbar-padding-x:                .75rem !default;
+$nav-item-link-padding-y:         $navbar-padding-y * 1.5!default;
+$nav-item-height:                 $line-height-base * 2 !default;
+
+//border
+$border-color-dark: #d8d8d8 !default;
+
+
+//headings
+$font-size-one:               	$font-size-base * 2.93 !default;
+$font-size-two:               	$font-size-base * 2.066 !default;
+$font-size-three:             	$font-size-base * 1.6 !default;
+$font-size-four:             	$font-size-base * 1.4 !default;
+
+$large-text-font-size:		1.125rem	!default;
+
+$layout-base-padding: 1rem !default;
+$layout-base-padding-y: 1rem * 3.75!default;
+$line-height-sm:		$line-height-base * .5 !default;
